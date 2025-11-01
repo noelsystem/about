@@ -45,8 +45,6 @@
 
  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 
- [![An image of @gauravvv's Holopin badges, which is a link to view their full Holopin profile](https://t.me/pinomodz)](https://pino page.gd)
-
 ### 🔮 Tools / Languages:
 <hr />
 
@@ -56,15 +54,15 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="33" alt="atom logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="33" alt="cloudflare logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="33" alt="cmake logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="33" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="33" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="33" alt="discord logo"  />
   <img width="12" />
